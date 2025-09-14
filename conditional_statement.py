@@ -15,6 +15,7 @@ else:
     print("Fail")  
 
 
+
 marks2 = 80
 
 if marks2 > 75:
